@@ -30,3 +30,6 @@ p {
   font-size: 1.5rem;
   color: mediumblue;
 }
+p:first-of-type {
+  color: lightblue;
+}
